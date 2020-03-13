@@ -2,6 +2,9 @@
 
 A collection of corpus material for chat / RnD machine learning
 
+Some using tools from here:
+https://parl.ai/
+
 and more references:
 - https://www.quora.com/Where-can-I-find-the-chat-data-set
 - https://www.kaggle.com/eibriel/rdany-conversations
@@ -14,7 +17,6 @@ and more references:
 - https://www.quora.com/Where-can-I-find-the-chat-data-set
 - https://convokit.cornell.edu/
 - https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit
-
 
 ## ESL conversations
 https://www.easypacelearning.com/all-lessons/english-lessons-level-3/1244-graduation-conversation-2-friends-talking-about-buying-flowers
