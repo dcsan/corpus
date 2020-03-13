@@ -1,0 +1,2 @@
+# pretty print an xml file
+tidy -xml -iq $1
