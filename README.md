@@ -18,6 +18,13 @@ and more references:
 - https://convokit.cornell.edu/
 - https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit
 
-## ESL conversations
-https://www.easypacelearning.com/all-lessons/english-lessons-level-3/1244-graduation-conversation-2-friends-talking-about-buying-flowers
-https://www.eslfast.com/robot/topics/shop/1shop01.htm
+## ESL conversation sites
+- https://www.easypacelearning.com/all-lessons/english-lessons-level-3/1244-graduation-conversation-2-friends-talking-about-buying-flowers
+- https://www.eslfast.com/robot/topics/shop/1shop01.htm
+- http://englishconversations.org/categories/real-conversations-category/
+- https://www.eslfast.com/robot/
+- http://englishconversations.org/2005/08/03/hiromis-trip-to-thailand-episode-7-a-first-time-meeting/
+- https://www.audioenglish.org/english-learning/english_dialogue_shopping_menswear_color_design_1.htm
+- https://www.easypacelearning.com/all-lessons/lesson-categories/1149-conversations-english-lessons-a-list-of-all-lessons
+- https://sites.google.com/site/roleplayconversations/
+
