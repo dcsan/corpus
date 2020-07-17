@@ -20,3 +20,5 @@ and more references:
 - https://convokit.cornell.edu/
 - https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit
 
+- https://github.com/gunthercox/chatterbot-corpus  
+small but multilingual YAML files
